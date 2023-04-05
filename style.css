@@ -152,6 +152,7 @@ label{
 }
 .menubox{
     width: 350px;
+    height:250px;
     background-color: aqua;
     color: rgb(115, 10, 212);
     border: 3px solid green;
@@ -174,7 +175,6 @@ label{
     font-weight: 500;
     font-size: 16px;
 }
-
-.lastbox{
-    height:400px;
+.lbox {
+    height:300px;
 }
